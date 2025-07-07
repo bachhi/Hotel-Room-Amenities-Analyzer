@@ -3,4 +3,4 @@ numpy
 pandas
 Pillow
 #google-generativeai
-genai
+google.genai
