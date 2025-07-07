@@ -4,7 +4,7 @@ import tempfile
 #import cv2
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import seaborn as sns
 from google import genai
 from google.genai import types
