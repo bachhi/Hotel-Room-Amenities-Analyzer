@@ -6,4 +6,4 @@ Pillow
 matplotlib
 seaborn
 google-genai
-opencv
+opencv-python
